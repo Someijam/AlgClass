@@ -1,0 +1,9 @@
+*
+!*.*
+!*/
+#ignore debug folder
+*.dSYM
+#ignore ".vscode/"
+.vscode
+#ignore macOS file
+.DS_*
